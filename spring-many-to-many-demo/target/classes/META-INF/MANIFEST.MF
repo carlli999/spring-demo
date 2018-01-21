@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-many-to-many-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: wq
+Implementation-Vendor-Id: com.example.jpa
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://projects.spring.io/spring-boot/spring-many-
+ to-many-demo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
